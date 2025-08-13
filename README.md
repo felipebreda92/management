@@ -1,4 +1,3 @@
-# Management
 # Management Gateway
 
 ## Visão Geral
